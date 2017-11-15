@@ -13,10 +13,10 @@ class City {
     static var cities = [City]()
     
     let name: String
-    let temp: Int
+    let temp: Double
     let weatherMain: String
     
-    init(name: String, temp: Int, weatherMain: String) {
+    init(name: String, temp: Double, weatherMain: String) {
         self.name = name
         self.temp = temp
         self.weatherMain = weatherMain
@@ -28,12 +28,17 @@ class City {
             return nil
         }
         
-        guard let main = city["main"] as? [String : Any], let temperature = main["temp"] as? Int else {
-            print("main and temp didn't work")
+        guard let main = city["main"] as? [String : Any] else {
+            print("main didn't work")
             return nil
         }
         
-        guard let weather = main["weather"] as? [[String : Any]], let mainWeather = weather[0]["main"] as? String else {
+        guard let temperature = main["temp"] as? Double else {
+            print("temp didn't work")
+            return nil
+        }
+        
+        guard let weather = city["weather"] as? [[String : Any]], let mainWeather = weather[0]["main"] as? String else {
             print("weather didn't work")
             return nil
         }

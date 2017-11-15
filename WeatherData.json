@@ -78,13 +78,13 @@
              "Lon": -72.693787
              },
              "main": {
-             "temp": 26.22,
-             "temp_min": 26.22,
-             "temp_max": 26.22,
-             "pressure": 992.88,
-             "sea_level": 1020.89,
-             "grnd_level": 992.88,
-             "humidity": 83
+                 "temp": 26.22,
+                 "temp_min": 26.22,
+                 "temp_max": 26.22,
+                 "pressure": 992.88,
+                 "sea_level": 1020.89,
+                 "grnd_level": 992.88,
+                 "humidity": 83
              },
              "wind": {
              "speed": 1.36,

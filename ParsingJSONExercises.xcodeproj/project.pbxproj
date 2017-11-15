@@ -20,6 +20,8 @@
 		81A8AA341FBBA4560046AC3D /* SongData.json in Resources */ = {isa = PBXBuildFile; fileRef = 81A8AA331FBBA4560046AC3D /* SongData.json */; };
 		81A8AA361FBBA4790046AC3D /* SongListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A8AA351FBBA4790046AC3D /* SongListViewController.swift */; };
 		81A8AA391FBBA7150046AC3D /* WeatherData.json in Resources */ = {isa = PBXBuildFile; fileRef = 81A8AA381FBBA7150046AC3D /* WeatherData.json */; };
+		81BDC0531FBBCF8A0061EFBB /* WeatherDetailedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BDC0521FBBCF8A0061EFBB /* WeatherDetailedViewController.swift */; };
+		81BDC0551FBBD03D0061EFBB /* Song.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BDC0541FBBD03D0061EFBB /* Song.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +40,8 @@
 		81A8AA331FBBA4560046AC3D /* SongData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = SongData.json; sourceTree = "<group>"; };
 		81A8AA351FBBA4790046AC3D /* SongListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongListViewController.swift; sourceTree = "<group>"; };
 		81A8AA381FBBA7150046AC3D /* WeatherData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = WeatherData.json; sourceTree = "<group>"; };
+		81BDC0521FBBCF8A0061EFBB /* WeatherDetailedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherDetailedViewController.swift; sourceTree = "<group>"; };
+		81BDC0541FBBD03D0061EFBB /* Song.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Song.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				8123AE5A1FBBAAB000650349 /* WeatherViewController.swift */,
+				81BDC0521FBBCF8A0061EFBB /* WeatherDetailedViewController.swift */,
 				8123AE5D1FBBABAE00650349 /* City.swift */,
 			);
 			path = "Exercise 3";
@@ -116,6 +121,7 @@
 			isa = PBXGroup;
 			children = (
 				81A8AA351FBBA4790046AC3D /* SongListViewController.swift */,
+				81BDC0541FBBD03D0061EFBB /* Song.swift */,
 			);
 			path = "Exercise 2";
 			sourceTree = "<group>";
@@ -195,7 +201,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				81BDC0551FBBD03D0061EFBB /* Song.swift in Sources */,
 				8137D0501FBB80B000369EEA /* GOTHouses.swift in Sources */,
+				81BDC0531FBBCF8A0061EFBB /* WeatherDetailedViewController.swift in Sources */,
 				8123AE5B1FBBAAB000650349 /* WeatherViewController.swift in Sources */,
 				8137D03C1FBB7E5000369EEA /* GOTViewController.swift in Sources */,
 				8137D03A1FBB7E5000369EEA /* AppDelegate.swift in Sources */,
