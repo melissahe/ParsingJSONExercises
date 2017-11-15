@@ -1,0 +1,242 @@
+{
+    "cod": 200,
+    "calctime": 0.81598301,
+    "cnt": 4741,
+    "list": [
+             {
+             "id": 3723779,
+             "dt": 1510697064,
+             "name": "Jacmel",
+             "coord": {
+                 "Lat": 18.234171,
+                 "Lon": -72.534721
+             },
+             "main": {
+                 "temp": 27,
+                 "temp_min": 27,
+                 "temp_max": 27,
+                 "pressure": 1007,
+                 "humidity": 78
+             },
+             "wind": {
+                 "speed": 4.6,
+                 "deg": 90
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+                 "today": 75
+             },
+             "weather": [
+                         {
+                         "id": 803,
+                         "main": "Clouds",
+                         "description": "broken clouds",
+                         "icon": "04d"
+                         }
+                         ]
+             },
+             {
+             "id": 3722286,
+             "dt": 1510696927,
+             "name": "Leogane",
+             "coord": {
+             "Lat": 18.51083,
+             "Lon": -72.633888
+             },
+             "main": {
+             "temp": 27,
+             "temp_min": 27,
+             "temp_max": 27,
+             "pressure": 1007,
+             "humidity": 78
+             },
+             "wind": {
+             "speed": 4.6,
+             "deg": 90
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 75
+             },
+             "weather": [
+                         {
+                         "id": 803,
+                         "main": "Clouds",
+                         "description": "broken clouds",
+                         "icon": "04d"
+                         }
+                         ]
+             },
+             {
+             "id": 3717588,
+             "dt": 1510696927,
+             "name": "Saint-Marc",
+             "coord": {
+             "Lat": 19.108191,
+             "Lon": -72.693787
+             },
+             "main": {
+             "temp": 26.22,
+             "temp_min": 26.22,
+             "temp_max": 26.22,
+             "pressure": 992.88,
+             "sea_level": 1020.89,
+             "grnd_level": 992.88,
+             "humidity": 83
+             },
+             "wind": {
+             "speed": 1.36,
+             "deg": 263.008
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 92
+             },
+             "weather": [
+                         {
+                         "id": 804,
+                         "main": "Clouds",
+                         "description": "overcast clouds",
+                         "icon": "04d"
+                         }
+                         ]
+             },
+             {
+             "id": 3716044,
+             "dt": 1510696927,
+             "name": "Verrettes",
+             "coord": {
+             "Lat": 19.049999,
+             "Lon": -72.466667
+             },
+             "main": {
+             "temp": 27,
+             "temp_min": 27,
+             "temp_max": 27,
+             "pressure": 1007,
+             "humidity": 78
+             },
+             "wind": {
+             "speed": 4.6,
+             "deg": 90
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 75
+             },
+             "weather": [
+                         {
+                         "id": 803,
+                         "main": "Clouds",
+                         "description": "broken clouds",
+                         "icon": "04d"
+                         }
+                         ]
+             },
+             {
+             "id": 3724696,
+             "dt": 1510696927,
+             "name": "Gonaives",
+             "coord": {
+             "Lat": 19.450001,
+             "Lon": -72.683327
+             },
+             "main": {
+             "temp": 26.22,
+             "temp_min": 26.22,
+             "temp_max": 26.22,
+             "pressure": 992.88,
+             "sea_level": 1020.89,
+             "grnd_level": 992.88,
+             "humidity": 83
+             },
+             "wind": {
+             "speed": 1.36,
+             "deg": 263.008
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 92
+             },
+             "weather": [
+                         {
+                         "id": 804,
+                         "main": "Clouds",
+                         "description": "overcast clouds",
+                         "icon": "04d"
+                         }
+                         ]
+             },
+             {
+             "id": 3718426,
+             "dt": 1510696921,
+             "name": "Port-au-Prince",
+             "coord": {
+             "Lat": 18.539169,
+             "Lon": -72.334999
+             },
+             "main": {
+             "temp": 27,
+             "temp_min": 27,
+             "temp_max": 27,
+             "pressure": 1007,
+             "humidity": 78
+             },
+             "wind": {
+             "speed": 4.6,
+             "deg": 90
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 75
+             },
+             "weather": [
+                         {
+                         "id": 803,
+                         "main": "Clouds",
+                         "description": "broken clouds",
+                         "icon": "04d"
+                         }
+                         ]
+             },
+             {
+             "id": 3727135,
+             "dt": 1510696887,
+             "name": "Croix des Bouquets",
+             "coord": {
+             "Lat": 18.575001,
+             "Lon": -72.224998
+             },
+             "main": {
+             "temp": 27,
+             "temp_min": 27,
+             "temp_max": 27,
+             "pressure": 1007,
+             "humidity": 78
+             },
+             "wind": {
+             "speed": 4.6,
+             "deg": 90
+             },
+             "rain": null,
+             "snow": null,
+             "clouds": {
+             "today": 75
+             },
+             "weather": [
+                         {
+                         "id": 803,
+                         "main": "Clouds",
+                         "description": "broken clouds",
+                         "icon": "04d"
+                         }
+                         ]
+             }
+             ]
+}
